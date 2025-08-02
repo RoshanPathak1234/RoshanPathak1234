@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Roshan Pathak</h1>
 <p align="center">
-  🎯 Backend-Focused Full-Stack Developer | 💻 Java & Spring Boot Enthusiast | 🚀 Problem Solver
+  🎯 Backend-Focused Full-Stack Developer | 💻 Building scalable, secure and robust application | 🚀 Problem Solver
 </p>
 
 ---
